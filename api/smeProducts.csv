@@ -1,0 +1,21 @@
+ProductID,ProductName,ProductType,Price,Calories,Ingredients,Availability,SpecialNotes
+1,Americano,Coffee,120,5,Water,Espresso Beans,Everyday,Decaffeinated option available
+2,Latte,Coffee,150,190,Espresso,Milk,Everyday,Vegetarian
+3,Cappuccino,Coffee,140,150,Espresso,Milk Foam,Everyday,Vegetarian
+4,Espresso,Coffee,100,5,Espresso,Beans,Everyday,Strong
+5,Mocha, Coffee,160,230,Espresso Milk,Chocolate,Everyday,Contains Sugar
+6,Green Tea,Tea,110,0,Green Tea and Leaves,Everyday,Antioxidant-rich
+7,Chai Latte, Tea,130,180,Black Tea,Milk and Spices,Everyday,Vegetarian
+8,Herbal Tea,Tea,115,0,Herbs,Everyday,Caffeine-free
+9,Croissant,Pastry,50,230,Flour and Butter,Everyday,Contains Gluten
+10,Blueberry Muffin,Pastry,40,320,Flour,Blueberries and Sugar,Weekends,Contains Sugar
+11,Brownie, Pastry,60,280,Flour,Cocoa and Sugar,Everyday,Contains Sugar
+12,Macarons,Pastry,70,100,Almond Flour,Egg Whites and Sugar,Weekends,Gluten-free
+13,Bagel,Bread,30,250,Flour and Yeast,Everyday,Contains Gluten
+14,Whole Grain Bread,Bread,35,200,Whole Grain Flour and Yeast,Everyday,High Fiber
+15,Cheese Sandwich,Sandwich,90,300,Bread Cheese and Lettuce,Everyday,Contains Dairy
+16,Chicken Sandwich,Sandwich,120,350,Bread Chicken and Lettuce,Everyday,Contains Meat
+17,Vegetable Wrap,Wrap,80,220,Tortilla and Veggies,Weekdays,Vegan
+18,Chicken Wrap,Wrap,110,260,Tortilla and Chicken,Weekdays,Contains Meat
+19,Fruit Smoothie,Smoothie,130,180,Fruits and yogurt,Everyday,Vegetarian
+20,Protein Shake,Shake,150,220,Protein Powder and Milk,Everyday,High Protein
